@@ -1,0 +1,5 @@
+<div>
+    <h1 class="text-2xl mb-2 pb-2 border-b">About Page</h1>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id repellat esse vitae facere quia, ipsum necessitatibus hic animi unde quasi maxime facilis inventore officia tempora molestiae repudiandae voluptatum, maiores reiciendis labore quis. Distinctio temporibus error atque modi ad nesciunt quia veritatis est, ab fuga eaque! Quis molestias debitis adipisci nam reprehenderit earum sunt et ullam dolore. Alias nemo hic at quos adipisci repellat vel explicabo, quibusdam doloribus officia laborum ipsam architecto nobis veritatis a? Labore laborum commodi cumque nulla quae perferendis et. Adipisci autem qui explicabo laborum tenetur eos pariatur dolore totam, beatae natus ipsam provident et temporibus at minima!</p>
+</div>

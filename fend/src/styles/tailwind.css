@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+    input,textarea{
+        @apply p-2 border rounded-sm shadow disabled:bg-gray-100;
+    }
+    select{
+        @apply bg-white mt-2 p-2 rounded-sm shadow border disabled:bg-gray-100;
+    } 
+  }
+
+
+ 

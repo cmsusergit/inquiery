@@ -2,3 +2,29 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+
+    html{
+        font-family: 'Poppins', sans-serif;
+    }
+    input,textarea{
+        @apply p-2 rounded-sm shadow  disabled:bg-gray-100;
+    }
+    select{
+        @apply bg-white mt-2 p-2 rounded-sm shadow border disabled:bg-gray-100;
+    } 
+    .field-group{
+        @apply flex flex-col md:flex-row gap-2;
+    }
+    .field{
+        @apply flex flex-col gap-1 w-full;
+    }
+
+    .field > label{
+        @apply text-blue-800 font-bold;
+    }
+    .button{
+      @apply  border w-20 bg-gray-200 px-2 py-1 rounded hover:bg-gray-400 hover:text-white disabled:bg-gray-400 disabled:text-gray-800; 
+    }
+  }
